@@ -18,7 +18,11 @@ To design and develop an AI-based predictive maintenance system capable of estim
 - Define thresholds to trigger maintenance alerts based on predicted RUL.
 6.**Visualization & Output**
 - Present results via charts and dashboards showing RUL trends and alert zones.
-Architecture Diagram
+- 
+## Architecture Diagram
+
+<img width="850" height="505" alt="TheArchitecture-of-the-gated-recurrent-unit-GRU-cell" src="https://github.com/user-attachments/assets/9c0405dc-2a85-48b8-acd4-bbc96160f931" />
+
 
 
 
