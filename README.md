@@ -18,9 +18,7 @@ To design and develop an AI-based predictive maintenance system capable of estim
 - Define thresholds to trigger maintenance alerts based on predicted RUL.
 6.**Visualization & Output**
 - Present results via charts and dashboards showing RUL trends and alert zones.
-- 
-## Architecture Diagram
-
+ 
 
 
 ### Tech Stack
