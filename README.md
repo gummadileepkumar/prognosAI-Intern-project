@@ -28,14 +28,14 @@ To design and develop an AI-based predictive maintenance system capable of estim
 
 ### Tech Stack
 
-- Python – Core programming language
-- Pandas, NumPy – Data processing
-- Matplotlib, Seaborn – Visualization
-- TensorFlow / Keras – LSTM model training
-- Scikit-learn – Metrics & preprocessing
-- Streamlit / Flask – Dashboard or API interface
-- Docker – Optional deployment
-- NASA CMAPSS Dataset – Source data
+- **Python** – Core programming language
+- **Pandas, NumPy** – Data processing
+- **Matplotlib, Seaborn** – Visualization
+- **TensorFlow / Keras** – LSTM model training
+- **Scikit-learn** – Metrics & preprocessing
+- **Streamlit / Flask** – Dashboard or API interface
+- **Docker** – Optional deployment
+- **NASA CMAPSS Dataset** – Source data
   
 ### Milestone 1: Data Preparation & Feature Engineering
 
