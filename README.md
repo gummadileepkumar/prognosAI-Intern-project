@@ -21,9 +21,6 @@ To design and develop an AI-based predictive maintenance system capable of estim
 - 
 ## Architecture Diagram
 
-<img width="850" height="505" alt="TheArchitecture-of-the-gated-recurrent-unit-GRU-cell" src="https://github.com/user-attachments/assets/9c0405dc-2a85-48b8-acd4-bbc96160f931" />
-
-
 
 
 ### Tech Stack
